@@ -1,0 +1,135 @@
+
+.background-BuyNowPic {
+  background-image: url('blob:https://web.whatsapp.com/7292353a-5ea0-4ed0-a8ed-e1cbca29e93a');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.payment {
+  background-color: rgba(255, 255, 255, 0.7); 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 80%; 
+  max-width: 400px; 
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}  
+
+
+.col-50-B {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  
+  .icon-container-B {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .fa-cc-visa-B, .fa-cc-amex-B, .fa-cc-mastercard-B, .fa-cc-discover-B {
+    font-size: 30px;
+    color: #ccc;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  .btn-BB{
+    padding-left: 0px;
+    margin-left: 0.000px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
+
+.background-BuyNowPic {
+  background-image: url('C:\Users\User\Desktop\Last Project\final-project-final\src\Components\pages\BuyNow\share.webp');
+
+
+
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.payment {
+  background-color: rgba(255, 255, 255, 0.7); 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 80%; 
+  max-width: 400px; 
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+
+.col-50-B {
+
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  
+  .icon-container-B {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .fa-cc-visa-B, .fa-cc-amex-B, .fa-cc-mastercard-B, .fa-cc-discover-B {
+    font-size: 30px;
+    color: #ccc;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  .btn-BB{
+    padding-left: 220px;
+  }
+  
+
+
+label {
+  margin-bottom: 10px;
+  display: block;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+}
+

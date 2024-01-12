@@ -1,0 +1,61 @@
+.card1 {
+    font-family:  "Bebas Neue", cursive;;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 450px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #E8F6F3;
+    margin-left: 90px;
+    
+  }
+  
+  .card1:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
+  .card1-title{
+    padding-left: 30px;
+  }
+  .card1-text{
+    padding-left: 30px;
+  }
+  
+  .card1 img {
+    width: 200px;
+    height: 200px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .card1-body {
+    padding: 20px;
+  }
+  
+  .card1-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .card1-text {
+    font-size: 1.1rem;
+    color: #0c0b0b;
+  }
+  
+  
+  .btn-0 {
+    margin-left: 50px;
+    font-size: 25px;
+    font-family:  "Bebas Neue", cursive;;
+    color: #0c0b0b;
+    border: 2px solid #28a745;
+    background-color: #28a745;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-0:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  

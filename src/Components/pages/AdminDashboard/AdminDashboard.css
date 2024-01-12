@@ -1,0 +1,14 @@
+.background-D {
+    background-image: url('https://www.investopedia.com/thmb/81CyaQaV7ddLlTpbB0mkB4Iu248=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Investorlandscape2023-396e0725bd2246919e356052fb894c9b.jpg');
+   
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+     
+
+

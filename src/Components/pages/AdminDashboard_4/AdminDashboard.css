@@ -1,0 +1,64 @@
+
+
+.background-D {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .locate {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-right: 150px;
+  }
+  
+  thead {
+    background-color:#fff;
+    color: black;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    
+  }
+  
+  input {
+    width: 55px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  
+  input[type="number"] {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  
+  input[type="number"]:focus {
+    outline: none;
+    border: 1px solid #007bff;
+  }
+  .background-D {
+    background-image: url('https://www.investopedia.com/thmb/81CyaQaV7ddLlTpbB0mkB4Iu248=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Investorlandscape2023-396e0725bd2246919e356052fb894c9b.jpg');
+   
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  

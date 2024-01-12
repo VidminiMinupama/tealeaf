@@ -1,0 +1,71 @@
+.background-image-g {
+
+  background-image: url('C:\Users\User\Desktop\Last Project\final-project-final\src\Components\pages\AddLocation\pLPSn.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+}
+
+
+.form-container {
+  background-color: rgba(0, 0, 0, 0.7); 
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+button[type='submit'] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px; /* Adjust padding to make the button smaller */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px; /* Adjust font size to make the text smaller */
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}
+
+button[type='submit']:hover {
+  background-color: #45a049;
+}
